@@ -1,21 +1,19 @@
-body {
-	background-color: purple;
+p {
+	text-align: center;
+	background: white;
+	border-style: dashed;
 }
 div {
-	margin: 50px;
+	background: purple;
+	margin: 20px 10px;
 	width: 50%;
-	height: 40px;
-	background:#ff8000;
-	border: dashed;
-	padding: 20,10,40,40; 
-
+	height: 100px;
+	padding: 10px 5px 20px 20px;
 }
-
-/*
-
-p {
-	background:#ff8000;
-	color: red;
+div div {
+	background: pink;
+	width: 90%;
+	height: 50px;
+	margin: 20px 10px;
+	padding: 10px 5px 20px 20px;
 }
-
-*/
