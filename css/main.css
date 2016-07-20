@@ -1,0 +1,21 @@
+body {
+	background-color: purple;
+}
+div {
+	margin: 50px;
+	width: 50%;
+	height: 40px;
+	background:#ff8000;
+	border: dashed;
+	padding: 20,10,40,40; 
+
+}
+
+/*
+
+p {
+	background:#ff8000;
+	color: red;
+}
+
+*/
